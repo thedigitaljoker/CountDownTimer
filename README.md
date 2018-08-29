@@ -8,7 +8,7 @@ Dependencies: Python 2.7
 
 Tested on: Python 2.7.15 / Windows 7 (Ultimate, x64 version)
 
-Quote of the day: "Never in the history of mankind have so many owed so much to so few" - Sir Winston Churchill
+Quote of the day: *"Never in the history of mankind have so many owed so much to so few"* - Sir Winston Churchill
 
 # Modifications/adaptations
 1. Changed default countdown minutes (self.mins = ) from 10 to 0.
