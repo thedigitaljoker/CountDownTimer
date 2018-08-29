@@ -18,5 +18,6 @@ Tested on: Python 2.7.15 / Windows 7 (Ultimate, x64 version)
 # To do
 1. Add an audio and/or visual user notification when the set time has occured.
 2. Extend functionality with preset timers (30, 60, 90 minutes).
-3. Change the root window's icon from the default Tk to an appropriate one.
-4. Compile a PE file for users with no Python installed. 
+3. Change the default value for increasing/decreasing the timer from 1 minute to 5 minutes (optional).
+4. Change the root window's icon from the default Tk to an appropriate one.
+5. Compile a PE file for users with no Python installed. 
